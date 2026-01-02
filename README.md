@@ -1,8 +1,22 @@
+
+<h1 align="center">Hi, I'm Abdelrahman Nader</h1>
+<h3 align="center">
+React Front-End Developer<br/>
+Turning Ideas Into Real-World Web Applications 
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdunader&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+
+
 # 💫 About Me:
 
 I build, develop, and improve ideas into Real-World Web Applications
 
 Learning on Scrimba: https://scrimba.com/?via=u4152f0e
+
 
 ## 🌐 Socials:
 
@@ -26,16 +40,12 @@ Learning on Scrimba: https://scrimba.com/?via=u4152f0e
 
 ![](https://github-profile-trophy.vercel.app/?username=abdunader&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=abdunader&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abdunader&icon=5&color=3)](https://visitcount.itsvg.in)
 
 
