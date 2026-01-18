@@ -44,8 +44,4 @@ Learning on Scrimba: https://scrimba.com/?via=u4152f0e
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=abdunader&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
 
