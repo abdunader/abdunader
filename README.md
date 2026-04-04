@@ -30,10 +30,6 @@ Learning on Scrimba: https://scrimba.com/?via=u4152f0e
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=abdunader&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdunader&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Dev Quote
 
